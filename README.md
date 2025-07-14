@@ -2,7 +2,8 @@
 
 A comprehensive Power BI report analyzing supermarket sales performance, customer behavior, and profitability across multiple branches and product lines.
 
-![Report Screenshot](<img width="1030" height="491" alt="Image" src="https://github.com/user-attachments/assets/9b9b0361-8cc2-4e5d-87bb-aa2ee8a66739" />)
+# Report Snapshot (Overview)
+<img width="1030" height="491" alt="Image" src="https://github.com/user-attachments/assets/38962524-3f99-41ac-96d8-98737fd67dc4" />
 
 ## 📊 Project Overview
 
